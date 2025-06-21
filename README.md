@@ -25,7 +25,7 @@ This is a small React project demonstrating how to use [Split.io](https://www.sp
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-loan-feature-flag.git
+git clone https://github.com/Bart-15/feature-flagging-split-io.git
 cd react-loan-feature-flag
 ```
 
